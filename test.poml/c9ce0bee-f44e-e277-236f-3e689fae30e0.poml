@@ -1,0 +1,7 @@
+<poml>
+  <scene>
+    <model scale="1 1 1" src="models/maskKomorinFuku.glb">
+      <geo-reference latitude="35.6809985880484" longitude="139.83539079595167" ellipsoidal-height="33.11803671714104" enu-rotation="-0.0008302700786149697 -0.000025237864014399092 0.000029852104271810287 -0.9999996545616895"></geo-reference>
+    </model>
+  </scene>
+</poml>
